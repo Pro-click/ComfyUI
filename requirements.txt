@@ -1,0 +1,26 @@
+# Core dependencies with fixed versions
+torch==2.5.0
+torchvision==0.18.1
+torchaudio==2.5.0
+torchsde
+einops
+diffusers
+accelerate
+xformers==0.0.28.post2
+
+# Additional dependencies
+numpy>=1.25.0
+transformers>=4.28.1
+tokenizers>=0.13.3
+sentencepiece
+safetensors>=0.4.2
+aiohttp>=3.11.8
+yarl>=1.18.0
+pyyaml
+Pillow
+scipy
+tqdm
+psutil
+
+# ComfyUI frontend
+comfyui-frontend-package==1.11.8
